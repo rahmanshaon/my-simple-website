@@ -4,8 +4,13 @@
 }
 
 div {
-  height: 400px;
-  width: 600px;
+  height: 800px;
+  /* width: 600px; */
   background-color: tomato;
   margin-bottom: 10px;
+}
+
+div img {
+  height: 50%;
+  width: 30%;
 }
